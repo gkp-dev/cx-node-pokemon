@@ -1,0 +1,122 @@
+[{
+        "id": 1,
+        "name": {
+            "english": "Bulbasaur",
+            "japanese": "フシギダネ",
+            "chinese": "妙蛙种子",
+            "french": "Bulbizarre"
+        },
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Sp. Attack": 65,
+            "Sp. Defense": 65,
+            "Speed": 45
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Brindibou",
+            "japanese": "フシギダネ",
+            "chinese": "妙蛙种子",
+            "french": "Brindibou"
+        },
+        "type": [
+            "Vol",
+            "Poison"
+        ],
+        "base": {
+            "HP": 55,
+            "Attack": 49,
+            "Defense": 49,
+            "Sp. Attack": 65,
+            "Sp. Defense": 65,
+            "Speed": 45
+        }
+    }, {
+        "id": 3,
+        "name": {
+            "english": "Flamiaou",
+            "japanese": "フシギダネ",
+            "chinese": "妙蛙种子",
+            "french": "Flamiaou"
+        },
+        "type": [
+            "Feu"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Sp. Attack": 65,
+            "Sp. Defense": 65,
+            "Speed": 45
+        }
+    }, {
+        "id": 4,
+        "name": {
+            "english": "Archéduc",
+            "japanese": "フシギダネ",
+            "chinese": "妙蛙种子",
+            "french": "Archéduc"
+        },
+        "type": [
+            "Plante",
+            "Spectre"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Sp. Attack": 65,
+            "Sp. Defense": 65,
+            "Speed": 45
+        }
+    }, {
+        "id": 5,
+        "name": {
+            "english": "Otarlette",
+            "japanese": "フシギダネ",
+            "chinese": "妙蛙种子",
+            "french": "Otarlette"
+        },
+        "type": [
+            "eau",
+            "Poison"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Sp. Attack": 65,
+            "Sp. Defense": 65,
+            "Speed": 45
+        }
+    }, {
+        "id": 6,
+        "name": {
+            "english": "Piclairon",
+            "japanese": "フシギダネ",
+            "chinese": "妙蛙种子",
+            "french": "Piclairon"
+        },
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Sp. Attack": 65,
+            "Sp. Defense": 65,
+            "Speed": 45
+        }
+    }
+]
